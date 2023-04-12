@@ -40,18 +40,20 @@
     "url": "https://l.byzocker.de",
     "icon": "https://icons.duckduckgo.com/ip3/l.byzocker.de.ico",
     "slug": "shlink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1177,
-    "timeDay": 1487,
-    "timeWeek": 1177,
-    "timeMonth": 1177,
-    "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "time": 1411,
+    "timeDay": 1800,
+    "timeWeek": 1411,
+    "timeMonth": 1411,
+    "timeYear": 1411,
+    "dailyMinutesDown": {
+      "2023-04-12": 0
+    }
   },
   {
     "name": "PicoShare",
