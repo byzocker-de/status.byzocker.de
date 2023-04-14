@@ -22,19 +22,19 @@
     "url": "$URL_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1087,
-    "timeDay": 908,
-    "timeWeek": 1087,
-    "timeMonth": 1087,
-    "timeYear": 1087,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 3875,
+    "timeDay": 9332,
+    "timeWeek": 3875,
+    "timeMonth": 3875,
+    "timeYear": 3875,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 19
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://l.byzocker.de",
     "icon": "https://icons.duckduckgo.com/ip3/l.byzocker.de.ico",
     "slug": "shlink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 1325,
     "timeMonth": 1325,
     "timeYear": 1325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-14": 0
+    }
   },
   {
     "name": "PicoShare",
