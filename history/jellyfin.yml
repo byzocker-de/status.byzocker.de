@@ -1,7 +1,7 @@
 url: $URL_JELLYFIN
-status: down
-code: 530
-responseTime: 157
-lastUpdated: 2023-12-12T02:18:35.400Z
+status: up
+code: 200
+responseTime: 635
+lastUpdated: 2023-12-12T02:37:46.364Z
 startTime: Mon Apr 10 2023 14:47:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
